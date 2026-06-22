@@ -116,7 +116,7 @@ def criar_gauge_chart(probabilidade):
     return fig
 
 # Título principal
-st.markdown('<h1 class="main-header">💳 Sistema de Análise de Crédito</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">💳 Sistema de Análise de Crédito - by Lívia Barros</h1>', unsafe_allow_html=True)
 
 # Subtítulo
 st.markdown("### 🤖 Análise Inteligente com Machine Learning")
